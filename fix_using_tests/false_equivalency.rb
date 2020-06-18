@@ -15,11 +15,11 @@ def selection(num)
       resp = "YUM YUM MUNCH MUNCH MUNCH"
       puts resp 
       resp    
-      
   elsif num = 2
      resp = "HAM HAM HAM IN MY TUMMY"
      puts resp 
      resp
+     binding.pry
   end
 end
 
