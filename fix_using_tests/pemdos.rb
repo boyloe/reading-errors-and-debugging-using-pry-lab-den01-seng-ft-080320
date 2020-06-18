@@ -6,8 +6,9 @@ def snake_it_up(string)
   if string[0] == "s"
     ten_s = 10.times do
       p "s"
-      binding.pry 
+      
     end
+    binding.pry
   p string
   
   else
