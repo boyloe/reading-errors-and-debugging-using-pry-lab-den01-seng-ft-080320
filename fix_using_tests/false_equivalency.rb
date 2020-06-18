@@ -12,11 +12,11 @@ end
 
 def selection(num)
   if num = 1
-      "YUM YUM MUNCH MUNCH MUNCH"
-         
+      resp = "YUM YUM MUNCH MUNCH MUNCH"
+      resp    
   elsif num = 2
-     puts "HAM HAM HAM IN MY TUMMY"
-     
+     resp = "HAM HAM HAM IN MY TUMMY"
+     resp
   end
 end
 
