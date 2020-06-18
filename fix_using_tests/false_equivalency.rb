@@ -14,6 +14,7 @@ def selection(num)
   if num = 1
       resp = "YUM YUM MUNCH MUNCH MUNCH"
       resp    
+      binding.pry
   elsif num = 2
      resp = "HAM HAM HAM IN MY TUMMY"
      resp
