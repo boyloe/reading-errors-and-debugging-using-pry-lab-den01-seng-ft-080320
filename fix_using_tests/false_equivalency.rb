@@ -19,7 +19,6 @@ def selection(num)
      resp = "HAM HAM HAM IN MY TUMMY"
      puts resp 
      resp
-     binding.pry
   end
 end
 
