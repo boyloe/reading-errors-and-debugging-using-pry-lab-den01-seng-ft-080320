@@ -7,8 +7,7 @@ def snake_it_up(string)
     10.times do
       p "s"
     end
-    p string
-  end    
+  p string
   
   else
     p string
