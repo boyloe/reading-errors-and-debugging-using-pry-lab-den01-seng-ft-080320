@@ -4,13 +4,12 @@ require 'pry'
 
 def snake_it_up(string)
   if string[0] == "s"
-    
+    "sssssssssss" + string
       
-    end
-    binding.pry
-  p string
+    
+ 
   
   else
-    p string
+    string
   end
 end
