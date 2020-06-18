@@ -16,6 +16,5 @@ def engage
   puts state_log(date)
   binding.pry
   
-  
-  "Hello"
+
 end
